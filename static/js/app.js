@@ -52,7 +52,7 @@ function buildCharts(stock) {
 
   };
 
-  var data = [linetrace, bartrace];
+  var data = [bartrace, linetrace];
 
   var layout = {
     title: 'US Covid19 cases and US Stock Indices',
