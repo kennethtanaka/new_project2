@@ -16,7 +16,7 @@ This project will analyze the US financial markets during this period through da
 
 
 ## Extract
-Data on COVID19 was obtainged using an API call from https://covid19api.com/.
+Data on COVID19 was obtained using an API call from https://covid19api.com/.
 This data comes from a trusted source: Johns Hopkins Center for Systems Science and Engineering (CSSE).
 The data is updated daily and includes a variety of information including summary of new and total cases per country, and cases by case type for a country from the first recorded case. There are also options to obtain "live" data where records are pulled every 10 minutes.
 
